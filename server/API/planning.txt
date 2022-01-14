@@ -1,0 +1,18 @@
+##API PLANNING
+
+=> Auth-get/post req
+=> Food- get req
+=> Restaurants- get req
+=> Menu- get req
+=> Order- post req
+=> Payment- Razorpay API
+=> Review- post req
+=> User- get/if u want edit then post req
+=> Image- post req
+
+
+//session
+findById
+FindByEmailAndPassword
+findByIdAndUpdate
+findByIdAndDelete
